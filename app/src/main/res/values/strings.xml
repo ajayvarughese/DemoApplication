@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="load">Load</string>
+    <string name="enter_string_to_update">Enter string to update</string>
+    <string name="delete_data">Delete data</string>
+    <string name="insert_data">insert data</string>
+    <string name="loading_data">Loading Data</string>
+    <string name="deleting_data">Deleting Data</string>
+    <string name="inserting_data">Inserting/Updating Data</string>
+    <string name="no_records">No Records Found</string>
+    <string name="next">Next</string>
+    <string name="started">Task Started</string>
+    <string name="thread_task">Thread task</string>
+    <string name="async_task">Async task</string>
+    <string name="loader_task">Loader task</string>
+</resources>
