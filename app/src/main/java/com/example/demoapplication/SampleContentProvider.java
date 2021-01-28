@@ -15,7 +15,6 @@ import android.net.Uri;
 public class SampleContentProvider extends ContentProvider {
 
     // defining authority so that other application can access it
-
     static final String PROVIDER_NAME = "com.example.demoapplication.provider";
 
     // defining content URI
