@@ -12,7 +12,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.database.sqlite.SQLiteQueryBuilder;
 import android.net.Uri;
 
-
 public class SampleContentProvider extends ContentProvider {
 
     // defining authority so that other application can access it
